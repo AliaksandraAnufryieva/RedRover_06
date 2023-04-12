@@ -2,6 +2,6 @@ package school.redrover;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Aliaksandra!");
+        System.out.println("Hello, Aliaksandra!!!");
     }
 }
